@@ -1,0 +1,4 @@
+Inicio.
+Declarar Variable.
+Var=2+(3*2).
+Fin.
